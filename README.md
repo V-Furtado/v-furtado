@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v-furtado&label=Profile%20views&color=0e75b6&style=flat" alt="v-furtado" /> </p>
 
-- 🔭 I’m currently working on **Neo Stock**
+- 🔭 I’m currently working on **Neo Stock api**
 - 👯 I’m looking to collaborate on **Open Source projects**
 - 🌱 I’m currently learning **Kubernetes**
 - 😄 Pronouns: **hi/him**
