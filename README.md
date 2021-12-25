@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![Screen Shot](https://user-images.githubusercontent.com/50887339/146708285-5710b019-c8fa-4866-9e02-7f3a7f428b29.png)
 
 <h1 align="center">I'm Vanderley. </h1>
-<h3 align="center">An aspiring Full Stack developer</h3>
+<h3 align="center">A passionate Full Stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v-furtado&label=Profile%20views&color=0e75b6&style=flat" alt="v-furtado" /> </p>
 
