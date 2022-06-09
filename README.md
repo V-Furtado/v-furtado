@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Neo Stock api**
 - 👯 I’m looking to collaborate on **Open Source projects**
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **Remix stacks**
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact **I can speak 4 languages**
 
