@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v-furtado&label=Profile%20views&color=0e75b6&style=flat" alt="v-furtado" /> </p>
 
-- 🔭 I’m currently working on **Neo Stock api**
+- 🔭 I’m currently working on **Magic Modo**
 - 👯 I’m looking to collaborate on **Open Source projects**
 - 🌱 I’m currently learning **Remix stacks**
 - 😄 Pronouns: **he/him**
-- ⚡ Fun fact **I can speak 4 languages**
+<!-- - ⚡ Fun fact **I can speak 4 languages** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
